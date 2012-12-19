@@ -1,0 +1,3 @@
+== Orders application
+
+Order, product and item were generated with scaffolding
