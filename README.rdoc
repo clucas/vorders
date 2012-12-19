@@ -1,3 +1,5 @@
 == Orders application
 
+Simple order application using rails 2.3.9 and the aasm gem
+
 Order, product and item were generated with scaffolding
